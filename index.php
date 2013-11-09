@@ -1,8 +1,5 @@
-<html>
-<head>
-<title>Home Page</title>
-</head>
-<body>
+<?php
+require_once 'include/php/header_main.php';
+?>
 <p>HTML Test</p>
-</body>
-</html>
+<?php require_once 'include/php/footer_main.php'; ?>

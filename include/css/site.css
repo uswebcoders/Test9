@@ -1,0 +1,39 @@
+body {
+	font-family: Verdana, Arial, Helvetica;
+	background: silver;
+	text-align: center;
+	margin: 0px;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 25px;
+}
+h3 {
+	font-size: 20px;
+}
+p,li,th,td,body,h4 {
+	font-size: 15px;
+}
+h5 {
+	font-size: 10px;
+}
+h6 {
+	font-size: 7px;
+}
+#OuterBorder {
+	background: white;
+	border: 1px solid gray;
+	text-align: left;
+}
+#InnerBorder {
+	margin: 15px;
+}
